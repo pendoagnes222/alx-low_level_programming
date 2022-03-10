@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -o $CFILE > o;
+gcc -0 $CFILE > o
