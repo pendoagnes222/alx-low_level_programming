@@ -1,9 +1,22 @@
-#include<stdio.h>
-int main()
+#include "main.h"
+
+/**
+*main - prints the word _putchar
+*
+*Return: 0 on success execution.
+*/
+
+int main(void)
 {
-	putchar("_putchar");
-	putcher("\n");
+	char s[] = "_putchar";
+	int i = 0;
 
-	return o;
+	while (s[i] != '\0')
+	{
+		_putchar(s[i]);
+		i++;
+	}
+	_putchar(10);
 
+	return (0);
 }
