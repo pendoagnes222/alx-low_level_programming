@@ -6,4 +6,8 @@
 
 3.the space complexity f an iterative linear search algorithm in an array of size n
 
+4.the time complexity of a binary search in an array of size n
 
+5.the space complexity of a binary search in an array of size n
+
+6
