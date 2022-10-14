@@ -45,8 +45,8 @@ void print_name_uppercase(char *name)
  */
 int main(void)
 {
-	print_name("Danton", print_name_as_is);
-	print_name("Rick Harris", print_name_uppercase);
+	print_name("Pendo", print_name_as_is);
+	print_name("Agnes Pendo", print_name_uppercase);
 	printf("\n");
 	return (0);
 }
