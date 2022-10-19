@@ -1,18 +1,28 @@
-0. Preprocessor 
-   Writting a script that runs a C file through the preprocessor and save the re   sult into another file.
+# 0-run
 
-1. Compiler 
-   Write a script that compiles a C file but does not link.
+Shell script that runs a Python script.
 
-2. Assembler 
-  Write a script that generates the assembly code of a C code and save it in an   output file.
+# 1-run_inline
 
-3. Name 
-   Write a script that compiles a C file and creates an executable named cisfun.
+Shell script that runs Python code.
 
-4. Hello, puts 
-   Write a C program that prints exactly "Programming is like building a multili   ngual puzzle.
+# 2-print.py
 
-6. Size is not grandeur, and territory does not make a nation 
-   Write a C program that prints the size of various types on the computer it is   compiled and run on.
+Python script that prints exactly "Programming is like building a multilingual puzzle
+
+# 3-print_number.py
+
+printing the integer stored in the variable number, followed by Battery street
+
+# 4-print_float.py
+
+printng the float stored in the variable number with a precision of 2 digits.
+
+# 5-print_string.py
+
+printing 3 times a string stored in the variable str, followed by its first 9 characters
+
+# 9-easter_egg.py
+
+Python script that prints “The Zen of Python”, by TimPeters
 
