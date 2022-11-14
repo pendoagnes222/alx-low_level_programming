@@ -66,6 +66,6 @@
 
 # Low-level programming & Algorithm - Linux and Unix system programming
 
-   * 234 0x15. C - File I/O 
+   * File I/O 
     
-   * 235 0x16. C - Simple Shell
+   * Simple Shell
